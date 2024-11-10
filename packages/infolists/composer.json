@@ -1,5 +1,5 @@
 {
-    "name": "newcbt/infolists",
+    "name": "filament/infolists",
     "description": "Easily add beautiful read-only infolists to any Livewire component.",
     "license": "MIT",
     "homepage": "https://github.com/filamentphp/filament",

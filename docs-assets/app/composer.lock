@@ -1172,7 +1172,7 @@
             "time": "2023-10-06T06:47:41+00:00"
         },
         {
-            "name": "newcbt/actions",
+            "name": "filament/actions",
             "version": "dev-main",
             "dist": {
                 "type": "path",
@@ -1220,7 +1220,7 @@
             }
         },
         {
-            "name": "newcbt/filament",
+            "name": "filament/filament",
             "version": "dev-main",
             "dist": {
                 "type": "path",
@@ -1280,7 +1280,7 @@
             }
         },
         {
-            "name": "newcbt/forms",
+            "name": "filament/forms",
             "version": "dev-main",
             "dist": {
                 "type": "path",
@@ -1331,7 +1331,7 @@
             }
         },
         {
-            "name": "newcbt/infolists",
+            "name": "filament/infolists",
             "version": "dev-main",
             "dist": {
                 "type": "path",
@@ -1377,7 +1377,7 @@
             }
         },
         {
-            "name": "newcbt/notifications",
+            "name": "filament/notifications",
             "version": "dev-main",
             "dist": {
                 "type": "path",
@@ -1424,7 +1424,7 @@
             }
         },
         {
-            "name": "newcbt/support",
+            "name": "filament/support",
             "version": "dev-main",
             "dist": {
                 "type": "path",
@@ -1478,7 +1478,7 @@
             }
         },
         {
-            "name": "newcbt/tables",
+            "name": "filament/tables",
             "version": "dev-main",
             "dist": {
                 "type": "path",
@@ -1525,7 +1525,7 @@
             }
         },
         {
-            "name": "newcbt/widgets",
+            "name": "filament/widgets",
             "version": "dev-main",
             "dist": {
                 "type": "path",

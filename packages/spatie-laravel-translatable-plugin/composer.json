@@ -1,5 +1,5 @@
 {
-    "name": "newcbt/spatie-laravel-translatable-plugin",
+    "name": "filament/spatie-laravel-translatable-plugin",
     "description": "Filament support for `spatie/laravel-translatable`.",
     "license": "MIT",
     "homepage": "https://github.com/filamentphp/filament",

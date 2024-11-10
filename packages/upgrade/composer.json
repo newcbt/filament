@@ -1,5 +1,5 @@
 {
-    "name": "newcbt/upgrade",
+    "name": "filament/upgrade",
     "description": "Upgrade Filament v2 code to Filament v3.",
     "license": "MIT",
     "homepage": "https://github.com/filamentphp/filament",

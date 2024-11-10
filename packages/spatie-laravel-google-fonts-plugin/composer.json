@@ -1,5 +1,5 @@
 {
-    "name": "newcbt/spatie-laravel-google-fonts-plugin",
+    "name": "filament/spatie-laravel-google-fonts-plugin",
     "description": "Filament support for `spatie/laravel-google-fonts`.",
     "license": "MIT",
     "homepage": "https://github.com/filamentphp/filament",

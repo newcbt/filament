@@ -1,5 +1,5 @@
 {
-    "name": "newcbt/filament",
+    "name": "filament/filament",
     "description": "A collection of full-stack components for accelerated Laravel development.",
     "license": "MIT",
     "require": {

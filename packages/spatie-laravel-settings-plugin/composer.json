@@ -1,5 +1,5 @@
 {
-    "name": "newcbt/spatie-laravel-settings-plugin",
+    "name": "filament/spatie-laravel-settings-plugin",
     "description": "Filament support for `spatie/laravel-settings`.",
     "license": "MIT",
     "homepage": "https://github.com/filamentphp/filament",
