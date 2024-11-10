@@ -1388,7 +1388,7 @@
             "time": "2024-08-06T10:04:20+00:00"
         },
         {
-            "name": "filament/support",
+            "name": "newcbt/support",
             "version": "dev-main",
             "dist": {
                 "type": "path",
