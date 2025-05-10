@@ -292,12 +292,15 @@
                     )
                 "
             @endif
-            x-show="! isLastStep()"
+            x-bind:class="{ 'hidden': isLastStep(), 'block': ! isLastStep() }"
+            wire:loading.class="pointer-events-none opacity-70"
         >
             {{ $nextAction }}
         </span>
 
-        <span x-show="isLastStep()">
+        <span
+            x-bind:class="{ 'hidden': ! isLastStep(), 'block': isLastStep() }"
+        >
             {{ $getSubmitAction() }}
         </span>
     </div>
